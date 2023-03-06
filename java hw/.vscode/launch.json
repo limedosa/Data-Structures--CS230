@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SavingAccount",
+            "request": "launch",
+            "mainClass": "SavingAccount",
+            "projectName": "java hw_b55257c1"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Bank",
+            "projectName": "java hw_b55257c1"
+        },
+        {
+            "type": "java",
+            "name": "CheckingAccount",
+            "request": "launch",
+            "mainClass": "CheckingAccount",
+            "projectName": "java hw_b55257c1"
+        },
+        {
+            "type": "java",
+            "name": "Account",
+            "request": "launch",
+            "mainClass": "Account",
+            "projectName": "java hw_b55257c1"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=
+comment1.target=Deck()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Deck\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ a\ String\ representation\ of\ the\ Deck\ of\ cards.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ cut()
+numComments=4

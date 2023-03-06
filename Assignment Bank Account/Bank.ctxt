@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bank
+comment0.text=\r\n\ Holds\ the\ different\ bank\ accounts\ in\ an\ array.\r\n\r\n\ @author\ (Shawfong\ Hsu,\ Linda\ Dominguez)\r\n\ @version\ (2/27/23)\r\n
+comment1.params=
+comment1.target=Bank()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ Bank\ class\r\n
+comment2.params=newAccount
+comment2.target=void\ addAccount(Account)
+comment2.text=\r\n\ Adding\ the\ different\ accounts\ into\ the\ account\ Account\ array\ \r\n
+comment3.params=
+comment3.target=double\ calculateTotalFunds()
+comment3.text=\r\n\ Calculating\ the\ total\ funds\ of\ the\ accounts\ that\ have\ been\ added\ to\ the\ array\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ returns\ a\ string\ representation\ of\ the\ bank\ and\ how\ many\ acoutns\ inside\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ For\ testing\ \r\n
+numComments=6

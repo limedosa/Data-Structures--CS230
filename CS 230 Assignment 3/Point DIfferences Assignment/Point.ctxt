@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=
+comment1.target=Point()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=x\ y
+comment2.target=Point(double,\ double)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=x
+comment4.target=void\ setX(double)
+comment5.params=
+comment5.target=double\ getY()
+comment6.params=y
+comment6.target=void\ setY(double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=otherPoint
+comment8.target=double\ findDistance(Point)
+comment9.params=p1\ p2
+comment9.target=boolean\ areEquidistant(Point,\ Point)
+numComments=11

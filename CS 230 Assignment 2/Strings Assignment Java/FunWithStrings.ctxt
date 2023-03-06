@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FunWithStrings
+comment0.text=\r\n\ We\ can\ write\r\n\r\n\ @author\ (Linda\ Domingez)\r\n\ @version\ (2/6/23)\r\n\ \r\n
+comment1.params=s1
+comment1.target=java.lang.String\ reverseString(java.lang.String)
+comment1.text=\r\n\ Makes\ new\ String\ from\ s1,\ that's\ reversed\r\n\r\n\ @param\ \ String\ 1\r\n\ @return\ returns\ reversed\ s1\r\n
+comment2.params=s1\ s2
+comment2.target=int\ areTheSame(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Uses\ method\ to\ determine\ whether\ strings\ are\ the\ same\ back\ and\ forth\r\n\r\n\ @param\ \ String\ s1,\ String\ s2\r\n\ @return\ \ \ whether\ strings\ are\ the\ same\ back\ and\ forth\r\n
+comment3.params=s1
+comment3.target=boolean\ sameBackandForth(java.lang.String)
+comment3.text=\r\n\ Uses\ boolean\ to\ tell\ whether\ s1\ and\ reversed\ s1\ are\ the\ same\r\n\r\n\ @param\ \ String\ s1\r\n\ @return\ \ \ true\ or\ false\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Uses\ all\ methods\ on\ an\ input\ string\r\n\r\n\ @param\ \ String\ s1\r\n\ @return\ \ \ uses\ the\ methods\ defined\ to\ determine\:\ \r\n\ a\ new\ String\ 2(String\ 1\ reversed),\ whether\ the\ strings\ \r\n\ have\ the\ same\ characters,\ and\ if\ the\ strings\ are\ the\ \r\n\ same\ back\ and\ forth\r\n
+numComments=5

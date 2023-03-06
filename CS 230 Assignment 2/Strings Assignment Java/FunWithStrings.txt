@@ -1,0 +1,10 @@
+dad? Expect:TRUE
+true
+123456? Expect:False
+false
+1234567? Expect:True
+true
+heytgere? Expect:False
+false
+wineskam? Expect:False
+false

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CheckingAccount
+comment0.text=\r\n\ Creates\ a\ checking\ account\r\n\ @author\ (Shawfong,\ Linda\ Dominguez)\r\n\ @version\ (2/26/23)\r\n
+comment1.params=initialDeposit
+comment1.target=CheckingAccount(double)
+comment1.text=\r\n\ initial\ deposit\ of\ money\ into\ the\ checking\ account\ \r\n
+comment2.params=amount
+comment2.target=void\ withdraw(double)
+comment2.text=\r\n\ @param\:\ amount\ of\ money\ \r\n\ \r\n\ Withdrawing\ money\ from\ account\ but\ if\ there\ isn't\ enough\ money\ in\ the\ acc\ will\ charge\r\n\ overdraft\ fee\ of\ $50\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ returns\ a\ string\ of\ the\ amount\ of\ money\ in\ the\ account\ \r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Testing\r\n
+numComments=5

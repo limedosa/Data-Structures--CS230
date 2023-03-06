@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Account
+comment0.text=\r\n\ \r\n\ @author\ (Shawfong,\ linda)\r\n\ @version\ (2/25/23)\r\n
+comment1.params=balance
+comment1.target=Account(double)
+comment1.text=\r\n\ initial\ deposit\ of\ money\ into\ any\ acc\ created\ \r\n
+comment2.params=
+comment2.target=double\ getBalance()
+comment2.text=\r\n\ Gets\ the\ acc\ balance\ \r\n
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment3.text=\r\n\ @param\ double\ of\ how\ much\ money\ to\ add\ into\ the\ bank\ acc\r\n\ depositing\ the\ money\ into\ account\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ returns\ a\ string\ representation\ of\ the\ newly\ created\ bank\ account\ \r\n
+comment5.params=amount
+comment5.target=void\ withdraw(double)
+comment5.text=\r\n\ @param\ double\ amount\ of\ money\ to\ withdraw,\ abstract\ method\ to\ be\ used\ in\ checking\r\n\ and\ saving\ account\ \r\n\ \r\n
+numComments=6

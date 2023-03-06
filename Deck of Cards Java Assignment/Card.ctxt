@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Card\r\n\r\n\ @author\ Smaranda\ Sandu,\ stella\ K\r\n\ @version\ 2/15\r\n
+comment1.params=s\ v
+comment1.target=Card(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Card\r\n\ \r\n\ @param\ s\ the\ suit\ of\ the\ card\r\n\ @param\ v\ the\ value\ of\ the\ card\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSuit()
+comment2.text=\r\n\ Getter\ for\ suit\r\n\ \r\n\ @return\ the\ suit\ of\ the\ card\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ Getter\ for\ value\r\n\ \r\n\ @return\ the\ value\ of\ the\ card\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ String\ representation\ of\ a\ card\r\n\ \r\n\ @return\ string\ representation\ of\ the\ card\r\n
+comment5.params=c
+comment5.target=boolean\ equals(Card)
+comment5.text=\r\n\ Method\ that\ checks\ when\ two\ cards\ are\ equal.\r\n\ Two\ cards\ are\ considered\ equal\ iff\ they\ ahve\ the\ same\ suit\ and\ the\ same\ value\r\n\ \r\n\ @param\ c\ the\ card\ this\ (the\ invoking)\ object\ is\ compared\ against\r\n\ @return\ true\ if\ this\ card\ and\ the\ input\ one\ are\ equal,\ false\ otherwise\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

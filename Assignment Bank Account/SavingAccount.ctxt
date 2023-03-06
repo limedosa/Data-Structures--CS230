@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SavingAccount
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ savingAccount\ here.\r\n\r\n\ @author\ (Shawfong,\ Linda\ Dominguez)\r\n\ @version\ (2/26/23)\r\n
+comment1.params=month
+comment1.target=void\ balancePostInterest(int)
+comment1.text=\r\n\ Calcuates\ the\ savings\ in\ acc\ after\ the\ intrest\ rate\ \r\n
+comment2.params=initialDeposit
+comment2.target=SavingAccount(double)
+comment2.text=\r\n\ @param\ int\ number\ of\ money\ for\ initial\ deposit\r\n\ @param2\ int\ intrest\ rate\ for\ this\ acc\ \r\n\ \r\n\ setting\ up\ saving\ acc\ with\ intial\ deposit\ and\ intrest\ rate\ \r\n
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment3.text=\r\n\ @param\ double\ amount\ of\ money\ to\ withdraw\ from\ the\ acc,\ int\ month\ of\ withdrawal\r\n\ Can\ only\ withdraw\ if\ there\ is\ enought\ money\ in\ the\ acc\ otherwise\ unable\ to\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ @returns\ a\ string\ representation\ of\ the\ balance\ in\ the\ saving\ acc\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Testing\r\n
+numComments=6

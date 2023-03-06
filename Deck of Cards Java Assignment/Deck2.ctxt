@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Deck2
+comment1.params=
+comment1.target=Deck2()
+comment1.text=\r\n\ \ \ \ //\ //\ //\ //\ //\ *\ Constructs\ a\ new\ Deck\ object\ with\ all\ 52\ unique\ cards.\r\n//\ //\ //\ //\ //
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ a\ String\ representation\ of\ the\ Deck.\r\n\ \r\n\ @return\ a\ String\ representation\ of\ the\ Deck\r\n
+comment3.params=
+comment3.target=void\ cut()
+comment3.text=\r\n\ Picks\ a\ random\ number\ between\ 1\ and\ the\ number\ of\ cards\ in\ the\ Deck,\ splits\ the\ deck\ into\ two\ piles,\r\n\ and\ rearranges\ the\ piles\ in\ the\ Deck\ so\ that\ the\ top\ pile\ goes\ to\ the\ bottom\ of\ the\ Deck.\r\n
+comment4.params=card
+comment4.target=int\ findCardIndex(Card)
+comment4.text=\r\n\ Helper\ method\ to\ find\ the\ index\ of\ a\ specified\ Card\ object\ in\ the\ Deck.\r\n\ \r\n\ @param\ card\ the\ Card\ object\ to\ find\ the\ index\ of\r\n\ @return\ the\ index\ of\ the\ Card\ object\ in\ the\ Deck,\ or\ -1\ if\ it\ is\ not\ found\r\n
+comment5.params=card
+comment5.target=void\ removeCard(Card)
+comment5.text=\r\n\ Helper\ method\ to\ remove\ a\ specified\ Card\ object\ from\ the\ Deck.\r\n\ \r\n\ @param\ card\ the\ Card\ object\ to\ remove\r\n
+numComments=6
